@@ -2,13 +2,14 @@
     "Acknowledgements": "The authors acknowledge the fMRI center of Central Institute of Psychiatry (CIP), Kanke, Ranchi, and its Institute Ethics Committee for approval and support",
     "Authors": [
         "Abgeena Abgeena",
-    "Shruti Garg",
-    "Nishant Goyal",
-    "Justin Raj PC"
+        "Shruti Garg",
+        "Nishant Goyal",
+        "Justin Raj PC"
     ],
     "BIDSVersion": "1.4.1",
-    "DatasetDOI": "NA",
-    "Funding": ["NA"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005700.v1.0.0",
+    "Funding": [
+        "NA"
     ],
     "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
     "License": "CC0",
