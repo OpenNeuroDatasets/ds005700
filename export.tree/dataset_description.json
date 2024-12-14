@@ -1,0 +1,21 @@
+{
+    "Acknowledgements": "The authors acknowledge the fMRI center of Central Institute of Psychiatry (CIP), Kanke, Ranchi, and its Institute Ethics Committee for approval and support",
+    "Authors": [
+        "Abgeena Abgeena",
+        "Shruti Garg",
+        "Nishant Goyal",
+        "Justin Raj PC"
+    ],
+    "BIDSVersion": "1.4.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005700.v1.0.2",
+    "Funding": [
+        "NA"
+    ],
+    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "License": "CC0",
+    "Name": "NeuroEmo: An fMRI Dataset for Emotion Recognition",
+    "ReferencesAndLinks": [
+        "TODO",
+        "List of papers or websites"
+    ]
+}
