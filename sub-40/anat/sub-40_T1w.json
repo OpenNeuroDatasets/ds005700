@@ -50,7 +50,6 @@
 	"WaterFatShift": 1.60256,
 	"EstimatedEffectiveEchoSpacing": 1.44107e-05,
 	"EstimatedTotalReadoutTime": 0.00367472,
-	"AcquisitionDuration": 339.232,
 	"PixelBandwidth": 271.054,
 	"PhaseEncodingAxis": "i",
 	"ImageOrientationPatientDICOM": [
