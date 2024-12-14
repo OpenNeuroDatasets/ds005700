@@ -49,7 +49,7 @@
 	"ParallelReductionFactorOutOfPlane": 2,
 	"WaterFatShift": 1.6013,
 	"EstimatedEffectiveEchoSpacing": 1.44002e-05,
-	"EstimatedTotalReadoutTime": 0.00367206
+	"EstimatedTotalReadoutTime": 0.00367206,
 	"PixelBandwidth": 271.267,
 	"PhaseEncodingAxis": "i",
 	"ImageOrientationPatientDICOM": [
