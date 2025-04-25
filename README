@@ -48,6 +48,7 @@ Onset (s) | Duration (s) | Emotion
 510 | 30 | White noise
 540 | 30 | Afraid
 570 | 30 | White noise
+
 ## File Structure
 	-/sub-01/
 	-/anat/
