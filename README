@@ -26,28 +26,28 @@ Videos used as stimuli were selected from [Mishra, S., Srinivasan, N., Asif, M.,
 
 ## Tasks
 Participants viewed movie clips designed to evoke different emotions task details:
--onset duration emotion
--0	30	Calm
--30	30	White noise
--60	30	Afraid
--90	30	White noise
--120 30	Delighted
--150 30	White noise
--180 30	Depressed
--210 30	White noise
--240 30	Excited
--270 30	White noise
--300 30	Delighted
--330 30	White noise
--360 30	Depressed
--390 30	White noise
--420 30	Calm
--450 30	White noise
--480 30	Excited
--510 30	White noise
--540 30	Afraid
--570 30	White noise
 
+Onset (s) | Duration (s) | Emotion
+0 | 30 | Calm
+30 | 30 | White noise
+60 | 30 | Afraid
+90 | 30 | White noise
+120 | 30 | Delighted
+150 | 30 | White noise
+180 | 30 | Depressed
+210 | 30 | White noise
+240 | 30 | Excited
+270 | 30 | White noise
+300 | 30 | Delighted
+330 | 30 | White noise
+360 | 30 | Depressed
+390 | 30 | White noise
+420 | 30 | Calm
+450 | 30 | White noise
+480 | 30 | Excited
+510 | 30 | White noise
+540 | 30 | Afraid
+570 | 30 | White noise
 ## File Structure
 	-/sub-01/
 	-/anat/
