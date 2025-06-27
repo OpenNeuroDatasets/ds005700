@@ -16,6 +16,7 @@
     "Name": "NeuroEmo: An fMRI Dataset for Emotion Recognition",
     "ReferencesAndLinks": [
         "TODO",
-        "List of papers or websites"
+        "List of papers or websites",
+        "Abgeena, A., Garg, S., Goyal, N. and PC, J.R., 2025. NeuroEmo: A neuroimaging-based fMRI dataset to extract temporal affective brain dynamics for Indian movie video clips stimuli using dynamic functional connectivity approach with graph convolution neural network (DFC-GCNN). Computers in Biology and Medicine, 194, p.110439."
     ]
 }
