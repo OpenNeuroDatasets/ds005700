@@ -8,7 +8,7 @@
 
 This dataset contains raw fMRI data collected from 40 healthy participants who watched emotional Indian movie videos clips.
 Tasks included resting-state and emotion-elicitation tasks. Data was organized following the BIDS standard. 
-Dataset size: 7.21 GB (raw BIDS-compliant format), 36 GB (raw DICOM files).
+Dataset size: 7.21 GB (raw BIDS-compliant format), 20 GB (raw DICOM files).
 
 The data was collected at fMRI center of Central Institute of Psychiatry (CIP), Kanke, Ranchi.The research proposal and experimental protocol received ethical clearance from the Institute Ethics Committee, CIP (No. IEC/CIP/2022-23/1709).
 
